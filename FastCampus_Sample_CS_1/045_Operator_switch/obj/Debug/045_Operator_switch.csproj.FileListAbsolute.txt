@@ -1,0 +1,8 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\bin\Debug\045_Operator_switch.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\bin\Debug\045_Operator_switch.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\bin\Debug\045_Operator_switch.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\obj\Debug\045_Operator_switch.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\obj\Debug\045_Operator_switch.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\045_Operator_switch\obj\Debug\045_Operator_switch.pdb
+C:\FastCampus_Sample_CS\045_Operator_switch\obj\Debug\045_Operator_switch.exe
+C:\FastCampus_Sample_CS\045_Operator_switch\obj\Debug\045_Operator_switch.pdb

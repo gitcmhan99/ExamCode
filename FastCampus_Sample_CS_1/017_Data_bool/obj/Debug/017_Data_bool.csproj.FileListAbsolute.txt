@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.pdb
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.exe
+D:\Exam_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.pdb
+C:\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.exe
+C:\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.pdb

@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe
+D:\Exam_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.pdb
+D:\Exam_CS\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+D:\Exam_CS\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.pdb
+C:\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+C:\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.pdb

@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.exe
+D:\Exam_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.pdb
+D:\Exam_CS\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.exe
+D:\Exam_CS\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\bin\Debug\013_Data6.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.pdb
+C:\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.exe
+C:\FastCampus_Sample_CS\013_Data6\obj\Debug\013_Data6.pdb

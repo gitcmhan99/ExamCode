@@ -1,0 +1,6 @@
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.exe
+D:\Exam_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.pdb

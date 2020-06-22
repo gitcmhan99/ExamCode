@@ -1,0 +1,8 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\bin\Debug\053_Operator_continue.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\bin\Debug\053_Operator_continue.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\bin\Debug\053_Operator_continue.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\obj\Debug\053_Operator_continue.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\obj\Debug\053_Operator_continue.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\053_Operator_continue\obj\Debug\053_Operator_continue.pdb
+C:\FastCampus_Sample_CS\053_Operator_continue\obj\Debug\053_Operator_continue.exe
+C:\FastCampus_Sample_CS\053_Operator_continue\obj\Debug\053_Operator_continue.pdb

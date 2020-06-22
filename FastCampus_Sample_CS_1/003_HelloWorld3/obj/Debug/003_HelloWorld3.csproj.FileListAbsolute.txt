@@ -1,0 +1,14 @@
+D:\Exam_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe
+D:\Exam_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.pdb
+D:\Exam_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.exe
+D:\Exam_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.pdb
+C:\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.exe
+C:\FastCampus_Sample_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.pdb

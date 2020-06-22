@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.pdb
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.exe
+D:\Exam_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.pdb
+C:\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.exe
+C:\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.pdb

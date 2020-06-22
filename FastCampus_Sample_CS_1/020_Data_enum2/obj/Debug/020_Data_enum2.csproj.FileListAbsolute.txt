@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.exe
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.pdb
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.exe
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.pdb
+D:\Exam_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\bin\Debug\020_Data_enum2.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.pdb
+C:\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.exe
+C:\FastCampus_Sample_CS\020_Data_enum2\obj\Debug\020_Data_enum2.pdb

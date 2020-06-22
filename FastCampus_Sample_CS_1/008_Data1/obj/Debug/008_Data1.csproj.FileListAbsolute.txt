@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.exe
+D:\Exam_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.pdb
+D:\Exam_CS\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.exe
+D:\Exam_CS\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\bin\Debug\008_Data1.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.pdb
+C:\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.exe
+C:\FastCampus_Sample_CS\008_Data1\obj\Debug\008_Data1.pdb

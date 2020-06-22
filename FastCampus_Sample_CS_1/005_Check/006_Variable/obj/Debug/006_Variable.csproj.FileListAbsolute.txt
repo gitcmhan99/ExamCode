@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.pdb
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+D:\Exam_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb
+C:\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+C:\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb

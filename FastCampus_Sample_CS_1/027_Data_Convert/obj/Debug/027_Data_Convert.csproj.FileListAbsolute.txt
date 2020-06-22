@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+D:\Exam_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+D:\Exam_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+D:\Exam_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb
+C:\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+C:\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb

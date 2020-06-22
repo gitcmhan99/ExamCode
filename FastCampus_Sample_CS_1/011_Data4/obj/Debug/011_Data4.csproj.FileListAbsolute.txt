@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.pdb
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.exe
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.pdb
+D:\Exam_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.pdb
+C:\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.exe
+C:\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.pdb

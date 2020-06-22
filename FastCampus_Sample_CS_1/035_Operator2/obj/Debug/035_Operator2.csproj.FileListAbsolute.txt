@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\035_Operator2\bin\Debug\035_Operator2.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\035_Operator2\bin\Debug\035_Operator2.exe
+D:\Exam_CS\FastCampus_Sample_CS\035_Operator2\bin\Debug\035_Operator2.pdb
+D:\Exam_CS\FastCampus_Sample_CS\035_Operator2\obj\Debug\035_Operator2.exe
+D:\Exam_CS\FastCampus_Sample_CS\035_Operator2\obj\Debug\035_Operator2.pdb

@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\015_String\bin\Debug\015_String.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\015_String\bin\Debug\015_String.exe
+D:\Exam_CS\FastCampus_Sample_CS\015_String\bin\Debug\015_String.pdb
+D:\Exam_CS\FastCampus_Sample_CS\015_String\obj\Debug\015_String.exe
+D:\Exam_CS\FastCampus_Sample_CS\015_String\obj\Debug\015_String.pdb

@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+D:\Exam_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+D:\Exam_CS\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+D:\Exam_CS\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb
+C:\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+C:\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb

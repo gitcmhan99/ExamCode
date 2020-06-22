@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe
+D:\Exam_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.pdb
+D:\Exam_CS\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.exe
+D:\Exam_CS\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\bin\Debug\005_Check.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.pdb
+C:\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.exe
+C:\FastCampus_Sample_CS\005_Check\obj\Debug\005_Check.pdb

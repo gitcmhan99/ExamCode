@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+D:\Exam_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+D:\Exam_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+D:\Exam_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb
+C:\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+C:\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

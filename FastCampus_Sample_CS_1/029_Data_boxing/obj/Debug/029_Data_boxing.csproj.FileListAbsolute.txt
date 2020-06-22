@@ -1,0 +1,13 @@
+D:\Exam_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe
+D:\Exam_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.pdb
+D:\Exam_CS\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.exe
+D:\Exam_CS\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\bin\Debug\029_Data_boxing.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.pdb
+C:\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.exe
+C:\FastCampus_Sample_CS\029_Data_boxing\obj\Debug\029_Data_boxing.pdb

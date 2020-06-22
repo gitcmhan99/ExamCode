@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.pdb
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.exe
+D:\Exam_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.pdb
+C:\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.exe
+C:\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.pdb

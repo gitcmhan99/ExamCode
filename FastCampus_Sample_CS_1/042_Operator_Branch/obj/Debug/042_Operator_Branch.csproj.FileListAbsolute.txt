@@ -1,0 +1,9 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.pdb
+C:\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.exe
+C:\FastCampus_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.pdb

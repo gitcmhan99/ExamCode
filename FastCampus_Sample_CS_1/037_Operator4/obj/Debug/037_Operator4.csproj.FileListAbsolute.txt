@@ -1,0 +1,6 @@
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\bin\Debug\037_Operator4.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\bin\Debug\037_Operator4.exe
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\bin\Debug\037_Operator4.pdb
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\obj\Debug\037_Operator4.exe
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\obj\Debug\037_Operator4.pdb
+D:\Exam_CS\FastCampus_Sample_CS\037_Operator4\obj\Debug\037_Operator4.csprojAssemblyReference.cache

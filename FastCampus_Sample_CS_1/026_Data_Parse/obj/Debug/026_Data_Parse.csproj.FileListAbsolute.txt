@@ -1,0 +1,15 @@
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb
+D:\Exam_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb
+C:\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+C:\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb

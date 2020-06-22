@@ -1,0 +1,8 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.pdb
+C:\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.exe
+C:\FastCampus_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.pdb

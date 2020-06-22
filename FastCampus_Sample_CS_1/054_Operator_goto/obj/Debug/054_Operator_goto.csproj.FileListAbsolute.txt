@@ -1,0 +1,8 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb
+C:\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+C:\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb
