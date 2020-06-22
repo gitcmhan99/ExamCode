@@ -1,4 +1,4 @@
-Fast Campus - 예제와 실습으로 마스터하는 C#
+Fast Campus - 초보자도 할 수 있는 C# Programming
 ======================
 
 
