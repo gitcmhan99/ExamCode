@@ -1,0 +1,12 @@
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\bin\Debug\058_Func1.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\bin\Debug\058_Func1.exe
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\bin\Debug\058_Func1.pdb
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\obj\Debug\058_Func1.csprojAssemblyReference.cache
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\obj\Debug\058_Func1.exe
+D:\Exam_CS\FastCampus_Sample_CS\058_Func1\obj\Debug\058_Func1.pdb
+D:\FastCampus_Sample_CS_2\058_Func1\bin\Debug\058_Func1.exe.config
+D:\FastCampus_Sample_CS_2\058_Func1\bin\Debug\058_Func1.exe
+D:\FastCampus_Sample_CS_2\058_Func1\bin\Debug\058_Func1.pdb
+D:\FastCampus_Sample_CS_2\058_Func1\obj\Debug\058_Func1.csprojAssemblyReference.cache
+D:\FastCampus_Sample_CS_2\058_Func1\obj\Debug\058_Func1.exe
+D:\FastCampus_Sample_CS_2\058_Func1\obj\Debug\058_Func1.pdb

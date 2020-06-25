@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.pdb
+C:\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.exe.config
+C:\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.exe
+C:\FastCampus_Sample_CS\139_Thread01\bin\Debug\139_Thread01.pdb
+C:\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.exe
+C:\FastCampus_Sample_CS\139_Thread01\obj\Debug\139_Thread01.pdb

@@ -1,0 +1,13 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.pdb
+C:\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe.config
+C:\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.exe
+C:\FastCampus_Sample_CS\125_LINQ\bin\Debug\125_LINQ.pdb
+C:\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.exe
+C:\FastCampus_Sample_CS\125_LINQ\obj\Debug\125_LINQ.pdb

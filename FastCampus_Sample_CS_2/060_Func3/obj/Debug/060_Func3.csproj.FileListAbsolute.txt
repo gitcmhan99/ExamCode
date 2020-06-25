@@ -1,0 +1,6 @@
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\bin\Debug\060_Func3.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\bin\Debug\060_Func3.exe
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\bin\Debug\060_Func3.pdb
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\obj\Debug\060_Func3.exe
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\obj\Debug\060_Func3.pdb
+D:\Exam_CS\FastCampus_Sample_CS\060_Func3\obj\Debug\060_Func3.csprojAssemblyReference.cache

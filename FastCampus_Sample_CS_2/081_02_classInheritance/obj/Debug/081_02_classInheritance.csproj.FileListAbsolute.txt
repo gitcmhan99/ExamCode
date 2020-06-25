@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\bin\Debug\081_02_classInheritance.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\bin\Debug\081_02_classInheritance.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\bin\Debug\081_02_classInheritance.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\obj\Debug\081_02_classInheritance.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\obj\Debug\081_02_classInheritance.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_02_classInheritance\obj\Debug\081_02_classInheritance.pdb

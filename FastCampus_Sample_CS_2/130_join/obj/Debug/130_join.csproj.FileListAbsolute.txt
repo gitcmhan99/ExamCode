@@ -1,0 +1,12 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\bin\Debug\130_join.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\bin\Debug\130_join.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\bin\Debug\130_join.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\obj\Debug\130_join.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\obj\Debug\130_join.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\130_join\obj\Debug\130_join.pdb
+C:\FastCampus_Sample_CS\130_join\bin\Debug\130_join.exe.config
+C:\FastCampus_Sample_CS\130_join\bin\Debug\130_join.exe
+C:\FastCampus_Sample_CS\130_join\bin\Debug\130_join.pdb
+C:\FastCampus_Sample_CS\130_join\obj\Debug\130_join.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\130_join\obj\Debug\130_join.exe
+C:\FastCampus_Sample_CS\130_join\obj\Debug\130_join.pdb

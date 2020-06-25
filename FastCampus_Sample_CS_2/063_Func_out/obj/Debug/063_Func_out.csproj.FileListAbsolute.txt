@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe
+D:\Exam_CS\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.pdb
+D:\Exam_CS\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.exe
+D:\Exam_CS\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.pdb

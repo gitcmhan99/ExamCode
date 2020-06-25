@@ -1,0 +1,13 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.pdb
+C:\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.exe.config
+C:\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.exe
+C:\FastCampus_Sample_CS\142_Tasks\bin\Debug\142_Tasks.pdb
+C:\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.exe
+C:\FastCampus_Sample_CS\142_Tasks\obj\Debug\142_Tasks.pdb

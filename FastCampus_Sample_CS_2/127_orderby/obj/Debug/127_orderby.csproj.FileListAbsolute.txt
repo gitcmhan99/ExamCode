@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.exe.config
+C:\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.exe
+C:\FastCampus_Sample_CS\127_orderby\bin\Debug\127_orderby.pdb
+C:\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.exe
+C:\FastCampus_Sample_CS\127_orderby\obj\Debug\127_orderby.pdb

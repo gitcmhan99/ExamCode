@@ -1,0 +1,12 @@
+D:\Exam_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.exe
+D:\Exam_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.pdb
+D:\Exam_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.exe
+D:\Exam_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\bin\Debug\073_Array_Func2.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\073_Array_Func2\obj\Debug\073_Array_Func2.pdb

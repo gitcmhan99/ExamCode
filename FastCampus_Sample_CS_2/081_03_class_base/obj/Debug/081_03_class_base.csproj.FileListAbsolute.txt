@@ -1,0 +1,11 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.pdb
+D:\FastCampus_Sample_CS_2\081_03_class_base\bin\Debug\081_03_class_base.exe.config
+D:\FastCampus_Sample_CS_2\081_03_class_base\bin\Debug\081_03_class_base.exe
+D:\FastCampus_Sample_CS_2\081_03_class_base\bin\Debug\081_03_class_base.pdb
+D:\FastCampus_Sample_CS_2\081_03_class_base\obj\Debug\081_03_class_base.exe
+D:\FastCampus_Sample_CS_2\081_03_class_base\obj\Debug\081_03_class_base.pdb

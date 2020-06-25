@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\bin\Debug\106_where.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\bin\Debug\106_where.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\bin\Debug\106_where.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\obj\Debug\106_where.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\obj\Debug\106_where.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\106_where\obj\Debug\106_where.pdb

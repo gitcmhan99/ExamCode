@@ -1,0 +1,11 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.pdb
+C:\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe.config
+C:\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe
+C:\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.pdb
+C:\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.exe
+C:\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.pdb

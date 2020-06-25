@@ -1,0 +1,11 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.pdb
+C:\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe.config
+C:\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe
+C:\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.pdb
+C:\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.exe
+C:\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.pdb

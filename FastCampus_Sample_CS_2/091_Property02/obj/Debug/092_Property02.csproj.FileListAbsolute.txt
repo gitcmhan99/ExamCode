@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\obj\Debug\092_Property02.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\obj\Debug\091_Property02.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\091_Property02\obj\Debug\091_Property02.pdb

@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.exe
+D:\Exam_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.pdb
+D:\Exam_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.exe
+D:\Exam_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.pdb

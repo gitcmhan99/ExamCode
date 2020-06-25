@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\bin\Debug\126_select.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\bin\Debug\126_select.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\bin\Debug\126_select.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\obj\Debug\126_select.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\obj\Debug\126_select.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\obj\Debug\126_select.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\126_select\obj\Debug\126_select.pdb
+C:\FastCampus_Sample_CS\126_select\bin\Debug\126_select.exe.config
+C:\FastCampus_Sample_CS\126_select\bin\Debug\126_select.exe
+C:\FastCampus_Sample_CS\126_select\bin\Debug\126_select.pdb
+C:\FastCampus_Sample_CS\126_select\obj\Debug\126_select.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\126_select\obj\Debug\126_select.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\126_select\obj\Debug\126_select.exe
+C:\FastCampus_Sample_CS\126_select\obj\Debug\126_select.pdb

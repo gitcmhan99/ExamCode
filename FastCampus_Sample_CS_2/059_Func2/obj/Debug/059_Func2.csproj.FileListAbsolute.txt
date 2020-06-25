@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\059_Func2\bin\Debug\059_Func2.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\059_Func2\bin\Debug\059_Func2.exe
+D:\Exam_CS\FastCampus_Sample_CS\059_Func2\bin\Debug\059_Func2.pdb
+D:\Exam_CS\FastCampus_Sample_CS\059_Func2\obj\Debug\059_Func2.exe
+D:\Exam_CS\FastCampus_Sample_CS\059_Func2\obj\Debug\059_Func2.pdb

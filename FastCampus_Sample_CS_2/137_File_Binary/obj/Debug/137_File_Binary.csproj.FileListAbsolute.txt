@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\bin\Debug\137_File_Binary.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\bin\Debug\137_File_Binary.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\bin\Debug\137_File_Binary.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\obj\Debug\137_File_Binary.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\obj\Debug\137_File_Binary.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\137_File_Binary\obj\Debug\137_File_Binary.pdb

@@ -1,0 +1,13 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\bin\Debug\107_List.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\obj\Debug\107_List.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\obj\Debug\107_List.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\obj\Debug\107_List.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\107_List\obj\Debug\107_List.pdb
+C:\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe.config
+C:\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe
+C:\FastCampus_Sample_CS\107_List\bin\Debug\107_List.pdb
+C:\FastCampus_Sample_CS\107_List\obj\Debug\107_List.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\107_List\obj\Debug\107_List.exe
+C:\FastCampus_Sample_CS\107_List\obj\Debug\107_List.pdb

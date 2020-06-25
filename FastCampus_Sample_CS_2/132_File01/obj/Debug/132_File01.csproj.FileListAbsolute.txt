@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.exe.config
+C:\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.exe
+C:\FastCampus_Sample_CS\132_File01\bin\Debug\132_File01.pdb
+C:\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.exe
+C:\FastCampus_Sample_CS\132_File01\obj\Debug\132_File01.pdb

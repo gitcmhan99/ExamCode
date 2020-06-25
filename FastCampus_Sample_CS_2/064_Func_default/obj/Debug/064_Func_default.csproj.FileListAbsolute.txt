@@ -1,0 +1,6 @@
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\bin\Debug\064_Func_default.pdb
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.exe
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.pdb
+D:\Exam_CS\FastCampus_Sample_CS\064_Func_default\obj\Debug\064_Func_default.csprojAssemblyReference.cache

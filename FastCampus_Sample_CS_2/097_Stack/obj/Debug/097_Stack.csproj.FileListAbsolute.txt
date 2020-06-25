@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.pdb

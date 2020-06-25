@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\bin\Debug\119_event.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\obj\Debug\119_event.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\obj\Debug\119_event.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe.config
+C:\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe
+C:\FastCampus_Sample_CS\119_event\bin\Debug\119_event.pdb
+C:\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\119_event\obj\Debug\119_event.exe
+C:\FastCampus_Sample_CS\119_event\obj\Debug\119_event.pdb

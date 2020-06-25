@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.pdb
+C:\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.exe.config
+C:\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.exe
+C:\FastCampus_Sample_CS\120_Ramdba\bin\Debug\120_Ramdba.pdb
+C:\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.exe
+C:\FastCampus_Sample_CS\120_Ramdba\obj\Debug\120_Ramdba.pdb

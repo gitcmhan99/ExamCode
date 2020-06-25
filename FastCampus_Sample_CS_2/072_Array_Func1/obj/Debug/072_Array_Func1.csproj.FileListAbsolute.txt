@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\072_Array_Func1\bin\Debug\072_Array_Func1.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\072_Array_Func1\bin\Debug\072_Array_Func1.exe
+D:\Exam_CS\FastCampus_Sample_CS\072_Array_Func1\bin\Debug\072_Array_Func1.pdb
+D:\Exam_CS\FastCampus_Sample_CS\072_Array_Func1\obj\Debug\072_Array_Func1.exe
+D:\Exam_CS\FastCampus_Sample_CS\072_Array_Func1\obj\Debug\072_Array_Func1.pdb

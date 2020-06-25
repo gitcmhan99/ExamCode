@@ -1,0 +1,13 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.csprojAssemblyReference.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.pdb
+C:\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.exe.config
+C:\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.exe
+C:\FastCampus_Sample_CS\101_Check\bin\Debug\101_Check.pdb
+C:\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.exe
+C:\FastCampus_Sample_CS\101_Check\obj\Debug\101_Check.pdb

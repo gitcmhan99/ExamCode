@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\079_this\bin\Debug\079_this.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\079_this\bin\Debug\079_this.exe
+D:\Exam_CS\FastCampus_Sample_CS\079_this\bin\Debug\079_this.pdb
+D:\Exam_CS\FastCampus_Sample_CS\079_this\obj\Debug\079_this.exe
+D:\Exam_CS\FastCampus_Sample_CS\079_this\obj\Debug\079_this.pdb

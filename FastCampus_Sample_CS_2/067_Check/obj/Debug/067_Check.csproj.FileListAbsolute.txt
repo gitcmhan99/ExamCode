@@ -1,0 +1,5 @@
+D:\Exam_CS\FastCampus_Sample_CS\067_Check\bin\Debug\067_Check.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\067_Check\bin\Debug\067_Check.exe
+D:\Exam_CS\FastCampus_Sample_CS\067_Check\bin\Debug\067_Check.pdb
+D:\Exam_CS\FastCampus_Sample_CS\067_Check\obj\Debug\067_Check.exe
+D:\Exam_CS\FastCampus_Sample_CS\067_Check\obj\Debug\067_Check.pdb

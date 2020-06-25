@@ -1,0 +1,6 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\bin\Debug\099_Indexer01.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\bin\Debug\099_Indexer01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\bin\Debug\099_Indexer01.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\obj\Debug\099_Indexer01.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\obj\Debug\099_Indexer01.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\099_Indexer01\obj\Debug\099_Indexer01.pdb

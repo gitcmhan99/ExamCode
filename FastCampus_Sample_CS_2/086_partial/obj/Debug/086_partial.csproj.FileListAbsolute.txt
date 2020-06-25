@@ -1,0 +1,6 @@
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.exe.config
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.exe
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.pdb
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.exe
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.pdb
+D:\Exam_CS\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.csprojAssemblyReference.cache

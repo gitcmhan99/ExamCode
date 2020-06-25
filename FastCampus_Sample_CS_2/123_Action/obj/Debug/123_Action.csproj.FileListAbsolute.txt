@@ -1,0 +1,14 @@
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.exe.config
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.csproj.CoreCompileInputs.cache
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.exe
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.pdb
+G:\FastCampus_Sample_CS\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.exe.config
+C:\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.exe
+C:\FastCampus_Sample_CS\123_Action\bin\Debug\123_Action.pdb
+C:\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.csprojAssemblyReference.cache
+C:\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.csproj.CoreCompileInputs.cache
+C:\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.exe
+C:\FastCampus_Sample_CS\123_Action\obj\Debug\123_Action.pdb
