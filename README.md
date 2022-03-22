@@ -1,4 +1,4 @@
-Fast Campus - 초보자도 할 수 있는 C# Programming
+﻿Fast Campus - 초보자도 할 수 있는 C# Programming
 ======================
 
 
@@ -18,3 +18,5 @@ Fast Campus - 초보자도 할 수 있는 C# Programming
   + 다운 받은 폴더 안에 "FastCampus_Sample_CS_2.sin" 폴더 클릭하면 자동 연결되며 바로 코드 확인 가능합니다.
   + "신뢰할 수 있는 소스의 프로젝트만 열어야 합니다." 오류가 나온다면 다음과 같이 해결하면 됩니다.
   + Visual Studio 2019 => 도구 => 옵션 => "프로젝트 및 솔루션" - 프로젝트 위치를 신뢰할 수 없을 때 사용자에 경고 => "클릭 해제"
+
+##--
